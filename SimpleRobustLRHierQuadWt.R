@@ -1,4 +1,10 @@
 
+# Stan-Ymet-Xmet-Mrobust.R 
+# Accompanies the book:
+#   Kruschke, J. K. (2014). Doing Bayesian Data Analysis: 
+#   A Tutorial with R, JAGS, and Stan 2nd Edition. Academic Press / Elsevier.
+# https://github.com/boboppie/kruschke-doing_bayesian_data_analysis
+
 source("DBDA2E-utilities.R")
 
 #===============================================================================
