@@ -1,3 +1,5 @@
+#------------------------------------------------------------------------------
+#Copyright (c) 2017 Tijana Vujcic
 graphics.off()
 rm(list=ls(all=TRUE))
 source("openGraphSaveGraph.R")
