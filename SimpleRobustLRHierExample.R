@@ -1,3 +1,5 @@
+#------------------------------------------------------------------------------
+#Copyright (c) 2017 Tijana Vujcic
 
 # Optional generic preliminaries:
 graphics.off() # This closes all of R's graphics windows.
